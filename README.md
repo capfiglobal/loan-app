@@ -1,2 +1,2 @@
 # loan-app
-White label loan app portal.
+White-label loan application portal.
